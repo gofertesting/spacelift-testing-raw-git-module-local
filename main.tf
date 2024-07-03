@@ -1,3 +1,3 @@
 output "test" {
-  value = 2
+  value = 3
 }
